@@ -12,7 +12,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Alexandre-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/4N4nt5d0KFB9k1ivvRPMbESv8oq6Av_aXvX_aM4CyDPwGUf9vIm9iAVZM-j_8E4qa3FRwfg3kv5aSkf4nWfWm82KfxgeiiWwdximUqKLzfUqz6G1pavPw3vHv4bPWqDgH1D_Gt2QWAQj1dQK8zNFsvmSPwAPS_EV1hsHwnbFFxq2trA__JhGcYLbDm4DyBVRJR-hTBMaQeE8xwBHk6Px_ImgmjahkhinR9YTj3Q2CfyD3EbN2uuIbW-_FUu7N3DRd7W8r2eXO4_nDDyVk-xt3iHt4u5BHTFc6ap2PWi6xQkl1MLNvOTA5_-6djNIo3VOFjLxoBth1k2agPqza-ur9eUNCef6ytMiEJNOMCZcEmtmPs3XeKb64fFz7goxiDOg8elqNUTlsTh2ljCXUy-msQ814KClqGyu5_XTqFaICoBg-v1bsUN5envYsMwlQLs3c0502ZPLFKTL6TgC6F1qFAZ4_bJjjtgNJDcywn_G3_WR8uiij2ErrDSbJar4vzcsPX9wpwJ1ffqvQ7_PTHF1NxQYs_jG-LtynrPIT0Q3iv4EMXa0e945T88_aABd_56t_LHtLpG1NrTwaeuJQmiTAehOZfsQIidUCsFP_B69KTwGCOq9HxADpIBYE7oP5biOH8YntVM828U94zKu8Lv8140Ug7p06ihnwOTupN9Nx3x4TRnQ8f6n9twj0pvdFBSRj4Y2He-jAunZe-I4aDw1C4tT=w327-h325-no?authuser=0">
+  <img align="right" alt="Alexandre-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/NoxWr8mFz1sAAAAM/itachi-uchiha.gif">
 </div>
   
 ##
